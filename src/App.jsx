@@ -21,9 +21,9 @@ function App() {
 
   return (
     <div>
-      <h2 className="text-2xl font-bold text-center my-10">
-        Project 1: Carrousel
-      </h2>
+      <h1 className="text-center text-4xl my-8 font-bold">
+        Project 1: Image Carousel
+      </h1>
       <div className="flex justify-evenly items-center">
         <div
           className="w-10 h-10 bg-black text-white flex items-center justify-center rounded-full cursor-pointer"
